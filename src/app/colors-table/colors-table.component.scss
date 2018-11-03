@@ -1,0 +1,36 @@
+table {
+  width: 95%;
+ padding-top: 10px;
+}
+
+tr.mat-footer-row {
+  font-weight: bold;
+}
+.example-container{
+  display: flex;
+  justify-content: center;
+}
+.mat-sort-header-container{
+margin-left: 25px;
+}
+.mat-elevation-z8{
+
+  margin: 35px auto;
+  padding-bottom: 10px;
+  width: 80%;
+  border-radius:20px;
+}
+.mat-header-cell{
+  font-size: 20px;
+
+}
+.colorName{
+  text-align: center;
+  text-transform: uppercase;
+}
+.hexValue{
+  color: #fff;
+  text-align: center;
+
+}
+
